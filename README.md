@@ -16,7 +16,7 @@ App live on : https://akash-kamat.github.io/Memer/
 ## How to clone and run
 
 First clone this repo by running: `git clone https://github.com/akash-kamat/Memer.git`
-or directly Download the zip file https://github.com/akash-kamat/Memer/archive/refs/heads/main.zip
+or directly Download the zip file https://github.com/akash-kamat/Memer/archive/refs/heads/master.zip
 
 In the project directory, you can run:
 
