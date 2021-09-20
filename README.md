@@ -9,9 +9,9 @@ App live on : https://akash-kamat.github.io/Memer/
 
 > Screenshots
 
-<img src="https://i.ibb.co/KGWYJ3s/memer01.png" width=90%>
+<img src="https://i.ibb.co/KGWYJ3s/memer01.png" width=80%>
 
-<img src="https://i.ibb.co/b2rRLrF/memer1.png" width=90%>
+<img src="https://i.ibb.co/b2rRLrF/memer1.png" width=80%>
 
 ## How to clone and run
 
