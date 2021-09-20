@@ -1,0 +1,16 @@
+@font-face {
+    font-family: boldfont;
+    src: url(./boldfont.ttf);
+}
+
+#nav{
+    position: sticky;
+    top: 0;
+    font-family: boldfont;
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 15px;
+    padding: 10px;
+    background-color: rgb(29, 74, 104);
+}

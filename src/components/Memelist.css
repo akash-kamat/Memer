@@ -1,0 +1,15 @@
+#memelist{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* border-right: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black; */
+    width: 75%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(212, 61, 61);
+    border-radius: 8px;
+    padding-top: 10px;
+}

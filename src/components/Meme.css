@@ -1,0 +1,18 @@
+.memeimg{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    margin: 10px;
+    border: 2px dashed rgba(245, 245, 245, 0.822);
+    padding: 3px;
+    transition: all 0.3s ease;
+}
+.memeimg:hover{
+    transform: scale(1.1);
+}
+.memeimg:active{
+    transform: scale(0.8);
+}
+.memeimg:focus{
+    transform: scale(0.8);
+}
