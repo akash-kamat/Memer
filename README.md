@@ -3,14 +3,15 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width=100px>
 
-A simple Pokedex made using React and [PokeApi](https://pokeapi.co/)
-(Also my first React app....lessgo!)
+A simple meme generator made using React and [ImgflipAPI](https://imgflip.com/api)
 
-App live on : https://akash-kamat.github.io/Pokedex/
+App live on : https://akash-kamat.github.io/Memer/
 
 > Screenshots
 
-<img src="https://i.ibb.co/V9tNwVT/pokedex.png" width=90%>
+<img src="https://i.ibb.co/KGWYJ3s/memer01.png" width=90%>
+
+<img src="https://i.ibb.co/b2rRLrF/memer1.png" width=90%>
 
 ## How to clone and run
 
